@@ -5,3 +5,5 @@ Proyecto Sistemas Transaccionales Enlace clickup --> historias de usuario: https
 Estructura Informe Proyecto --> https://docs.google.com/document/d/1qD_Zc46G_z39TlTTf9wRByQ-UmswEalNNTRjsg0Yr-w/edit?pli=1#
 VERSION 1 - LOGIN PROYECTO
 https://github.com/Choy98/Version-1
+PAGINA DE NETLIFY
+https://loginsit1.netlify.app
