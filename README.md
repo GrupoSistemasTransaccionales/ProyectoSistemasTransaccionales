@@ -7,3 +7,4 @@ VERSION 1 - LOGIN PROYECTO
 https://github.com/Choy98/Version-1
 PAGINA DE NETLIFY
 https://loginsit1.netlify.app
+https://app.netlify.com/teams/choy98/overview
